@@ -120,16 +120,18 @@ li{
 }
 
 #img1{
-    padding-top: 90px;
-    margin-left: 130px;
-    padding-bottom: 220px;
+    background: none;
+    position: absolute;
+    padding-top: 89px;
+    padding-left: 128px;
 }
 
 #img2{
-    margin:0px;
-    position: absolute;
-    top: 1450px;
-    left: 443px;
+    position: relative;
+    background: none;
+    margin-top: 188px;
+    margin-left: 443px;
+    padding-bottom: 58px;
 }
 
 footer{
